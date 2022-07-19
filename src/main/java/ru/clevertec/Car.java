@@ -7,4 +7,5 @@ public class Car {
     private double weight;
     private Engine engine;
     private Options options;
+    private String badField;
 }
