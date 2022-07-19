@@ -5,4 +5,5 @@ import java.awt.*;
 public class Car {
     private Color color;
     private double weight;
+    private Engine engine;
 }
