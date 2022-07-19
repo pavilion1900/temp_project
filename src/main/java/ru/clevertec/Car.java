@@ -4,4 +4,5 @@ import java.awt.*;
 
 public class Car {
     private Color color;
+    private Engine engine;
 }
